@@ -4,16 +4,21 @@
   "main": "index.js",
   "scripts": {
     "dev": "next",
-    "start" : "next start",
-    "build" : "next build"
+    "start": "next start",
+    "build": "next build"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "next": "^9.1.2",
     "react": "^16.11.0",
     "react-dom": "^16.11.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm i -s next react react-dom"
+  },
+  "devDependencies": {},
+  "description": ""
 }
